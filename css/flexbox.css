@@ -1,0 +1,23 @@
+.cabecalhoPrincipal .cabecalho { /*alinhei os dois */
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.rodape .container{
+	height: 200px;
+	width: 30px;
+	display: flex;
+	flex-flow: column wrap;
+    margin: 0px;
+    padding-top: 40px;
+	justify-content: space-between;
+
+}
+
+.icon-alinhamento{
+	display: flex;
+	flex-direction: column;
+	height: 300px;
+
+}
+

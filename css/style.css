@@ -1,0 +1,179 @@
+body {
+	background-color: #F8F8FF;
+	font-family: 'Open Sans',Arial,sans-serif;
+	box-sizing: border-box;
+}
+
+
+.container {
+	width: 85%;
+	/*margin: 0 40px;*/
+	/*height: 130px;*/
+	margin: 5% auto;
+
+}
+
+.cabecalhoPrincipal {
+	background-color: #1F618D;
+	padding: 20px 20px;
+	box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.cabecalhoPrincipal-titulo {
+	font-weight: bold;
+	font-size: 3.5em;
+	margin-bottom: 20px;
+	color: #F8F8FF;
+}
+
+
+.cabecalhoPrincipal-nav-link {
+	padding: 7px;
+	color: #F8F8FF;
+
+}
+.cabecalhoPrincipal-nav a{
+	text-decoration: none	
+}
+
+.cabecalhoPrincipal-titulo a {
+	text-decoration: none;
+	color: #F8F8FF;
+}
+h2{
+	color: #4F4C4C;
+	font-weight: bold;
+	font-size: 2em;
+	margin: 0px 0px 30px 0;
+}
+.quemSomos{
+	font-weight: bold;
+	color: #4F4C4C;
+	display: inline-block;
+	
+}
+
+.quemSomos-titulo{
+	text-align: center;
+	/*margin: 50px 0px 30px 0;*/
+	padding-top: 30px;
+}
+
+.tecnico-imagem{
+	width: 360px;
+	margin: 0px 0px 30px 0; 
+	box-shadow: 5px 5px 5px #6B6F71;
+	display: block;
+	float: right;
+}
+
+
+.quemSomos-texto{
+	width: 400px;
+	text-align: left;
+	line-height:1.5;
+	padding-bottom: 10px;
+	color: #141519;
+
+}
+
+.nossaHistoria{
+	display: block;
+	background-color: #c1c1c124;
+	margin: 50px 0px 30px 0;
+	height: 300px;
+
+}
+
+.nossos-servicos{
+	height: 500px;
+	margin-bottom: 60px;
+}
+
+.titulo-slide{
+	margin: 5px;
+	font-size: 1.3em;
+	line-height: 1.3;
+	color: #4F4C4C; 
+	font-weight: bold;
+}
+
+.texto-slide{
+	font-size: 1em;
+	line-height:1.3;
+	color: #313030; 
+	margin: 5px;
+}
+
+.rodape{
+	background-color: #1b4663;
+	height: 250px;
+	width: 90%;
+	display: inline-block;
+    padding: 0px 100px 0px 180px;
+
+}
+
+.contato-rodape{
+	width: 200px;
+	display: block;
+	padding-bottom: 10px;;
+	font-size: 1.9em;
+	font-style: bold;
+	color: #F8F8FF;
+}
+
+.texto-rodape{
+	display: block;
+	width: 300px;
+	color: #F8F8FF;
+	line-height: 25px;
+	font-style: italic;
+}
+
+
+/*.texto-rodape-cep{
+	display: block;
+	width: 300px;
+	color: #F8F8FF;
+	line-height: 25px;
+	font-style: italic;
+	margin-left: 18px;
+	text-align: 
+}*/
+
+
+
+.logo-rodape{
+	display: inline;
+}
+
+.logo-rodape {
+	text-decoration: none;
+	color: white;
+}
+
+.icone-vazio{
+	color: #1b4663;
+	display: inline-block;
+	color: white;
+	width: 40px;
+	margin: 1px;
+}
+.icon{
+	display: inline-block;
+	color: white;
+	width: 18px;
+	margin: 1px;
+}
+
+.icon-alinhamento{
+	display: block;
+	width: 25px;
+
+} 
+
+.lista-rodape{
+	margin-top: 42px;
+}
+
