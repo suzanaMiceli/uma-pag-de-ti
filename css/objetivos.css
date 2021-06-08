@@ -1,14 +1,44 @@
-/*.objetivos .container{
+.caixa-objetivos{
+	display: inline-block;
+	width: 260px;;
+
+}
+
+.objetivos .container{
 	display: inline-block;
 	display: flex;
 	align-items: center;
 
 }
 .titulo-objetivos{
-	display: flex;
- 	align-items: center;
-}
-.imagem-titulo{
+	width: 50px;
+	margin:0;
+	font-weight: 700;
+}	
+.imagem-objetivo {
 	width: 100px;
 	padding: 50px; 
+}
+.caixa-objetivos{
+    display: inline-block;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.texto-objetivos{
+	display: inline-block;
+	width: 225px;
+	margin-left: 40px;
+}
+
+.container-objetivos{
+	width: 260px;
+	display: inline-grid;
+	align-items: center;
+    /*justify-content: center;
+    align-items: center;*/
+    padding-left: 15px;
 }
